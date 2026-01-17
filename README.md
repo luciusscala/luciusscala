@@ -1,4 +1,4 @@
 ## ciao
 
 
-luciusscala.com
+luciusscala dot com
